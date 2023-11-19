@@ -4,13 +4,58 @@
   
   
   <entry>
-    <title></title>
-    <link href="/2023/09/15/my-first-blog/"/>
-    <url>/2023/09/15/my-first-blog/</url>
+    <title>The introduction of Box</title>
+    <link href="/2023/10/17/The%20introduction%20of%20Box/"/>
+    <url>/2023/10/17/The%20introduction%20of%20Box/</url>
     
-    <content type="html"><![CDATA[<hr><p>title: my first blog<br>date: 2023-09-15 17:29:33<br>author: Zixuuu</p><p>tags:</p><ul><li>Hexo</li><li>Github</li><li>博客</li></ul>]]></content>
+    <content type="html"><![CDATA[<h1 id="Box"><a href="#Box" class="headerlink" title="Box?"></a>Box?</h1><blockquote><blockquote><p>盒子</p></blockquote></blockquote>]]></content>
     
     
+    <categories>
+      
+      <category>Knowledge</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Hexo</tag>
+      
+      <tag>Github</tag>
+      
+      <tag>博客</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>The impact of chatGPT on computer science</title>
+    <link href="/2023/09/15/Personal_insights_on_chatGPT/"/>
+    <url>/2023/09/15/Personal_insights_on_chatGPT/</url>
+    
+    <content type="html"><![CDATA[<h1 id="The-Rampant-Use-of-ChatGPT-in-Universities"><a href="#The-Rampant-Use-of-ChatGPT-in-Universities" class="headerlink" title="The Rampant Use of ChatGPT in Universities"></a>The Rampant Use of ChatGPT in Universities</h1><h2 id="作弊情况愈加严重"><a href="#作弊情况愈加严重" class="headerlink" title="作弊情况愈加严重"></a><strong>作弊情况愈加严重</strong></h2><blockquote><blockquote><p>当我自己还是大一上的时候，chatGPT还没有大面积的发展。当时大部分学生就算是面对比较水的课程，也会选择自己去做作业，遇到不会的在网上查，这是非常正常的。但是临近大一上的期末，chatGPT在国内外迅速火爆，让非常多的学生尤其是计算机专业的学生深陷其中。不仅仅是对强大算力和AI的崇拜，更多的是让他们可以借此进行作弊。这种作弊随着chatGPT越强大，学生作弊也越来越严重。从普普通通的平时作业作弊，再到最后的期末考试…学生对chatGPT逐渐产生依赖，产生了放纵、无所谓的心理，<em><strong>这侵害的不仅仅是学业，更是他对以后人生的态度。</strong></em><br>同时，cahtGPT作为由openAI所设计的强大AI反而却侵蚀了这一辈学习计算机专业的学生，这是对于这个时代的败笔。我无法否认chatGPT能够让人们的生活更加方便，但我无法接受越来越多的人拿着它强大的功能做一些本该由自己去做的事情。它让人缺失了自己去探索与深入的过程。</p></blockquote></blockquote><h2 id="文章的学术性"><a href="#文章的学术性" class="headerlink" title="文章的学术性"></a><strong>文章的学术性</strong></h2><blockquote><blockquote><p>cahtGPT所写的文章偏向于理论性，死板而朴实。许多学生直接套用chatGPT上的文章应付作业，这是对自己极其不负责任的做法。有的同学会说cahtGPT节约了自己很多时间，让自己可以有更多的时间在其他方面上。但实际上他们只是用chatGPT应付作业后不检查也不修改，提交作业之后就开始打游戏。有时候在这个快节奏的生活当中，我们需要去静下来去看待每一件事情。<em><strong>去认真面对身边的点点滴滴。把握当下，才能够让未来的自己不后悔。</strong></em></p></blockquote></blockquote><h1 id="The-Impact-of-ChatGPT-on-the-Future-Employment-of-Computer-Majors"><a href="#The-Impact-of-ChatGPT-on-the-Future-Employment-of-Computer-Majors" class="headerlink" title="The Impact of ChatGPT on the Future Employment of Computer Majors"></a>The Impact of ChatGPT on the Future Employment of Computer Majors</h1><h2 id="前端已死？"><a href="#前端已死？" class="headerlink" title="前端已死？"></a><strong>前端已死？</strong></h2><blockquote><blockquote><p>面对这个话题，其实无可厚非的是chatGPT确实影响了某些计算机专业的方向。影响最大的莫过于<code>前端</code>这个行业。很多前端项目的代码chatGPT可以一秒生成。而可能一个项目给到一个前端开发工程师可能需要花一个小时。这对学习前端的人来说是莫大的打击。许多人觉得catGPT的存在将抹杀前端这个行业。前端确实现在因为chatGPT受到了非常大的冲击。但是cahtGPT从本质上来说也只是工具而已，它不能完全满足客户的要求，只是死板地去做一些基本的东西。没有人思维的一个过程性以及创新性。</p></blockquote></blockquote>]]></content>
+    
+    
+    <categories>
+      
+      <category>Knowledge</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Hexo</tag>
+      
+      <tag>Github</tag>
+      
+      <tag>博客</tag>
+      
+    </tags>
     
   </entry>
   
